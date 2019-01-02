@@ -1,2 +1,2 @@
 # HackerRank
-This repository contains all my algorithm solutions for HackerRank.com
+This repository contains all my algorithm solutions for [HackerRank.com](http://HackerRank.com)
